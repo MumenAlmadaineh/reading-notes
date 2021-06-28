@@ -6,14 +6,14 @@
 
 ![mark down vs html picture](https://thebridge.jp/en/wp-content/uploads/2013/05/markdown-vs-html.png)
 
-## In Markdown, more than one thing for example we can: -
+## In Markdown, more than one thing you can do it for example we can: -
 1. Control the display of the document.
 2. Formatting words as bold or italic.
 3. Adding images.
 4. Creating list.
 
 ## Typing guide for Markdown
-- You can add **paragraph** by add # before typing like this: -
+- You can add **paragraph** by add `#` before typing like this: -
 
 ###### `# Example for paragraph`
 
@@ -24,9 +24,9 @@
 
 ###### `1. 2. 3.` 
 
-2. **Bulleted list** you can do this by two way the first method by typing * before item list the secound moehod by typing - before item list for example: -
+2. **Bulleted list** you can do this by two way the first method by typing `*` before item list the secound moehod by typing `-` before item list for example: -
 
-###### `* And typing your item list or - and typing your item list`
+###### `type `*` And typing your item list or `-` and typing your item list`
 
 
 - You can add an **images** by this way: -
