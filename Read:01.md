@@ -1,6 +1,6 @@
 # Markdown
 ## What is Markdown?
-*Markdown is a way to create a web page by easy way and it's easier than HTML, and it's also not a programming language.*
+*Markdown is a way to create a web page by the easy way and it's easier than HTML, and it's also not a programming language.*
 
 *Like HTML - Markdown it's used to describe the content and syntax for styling all forms of writing on the GitHub platform.*
 
@@ -24,16 +24,16 @@
 
 ###### `1. 2. 3.` 
 
-2. **Bulleted list** you can do this by two way the first method by typing `*` before item list the secound moehod by typing `-` before item list for example: -
+2. **Bulleted list** you can do this by two way the first method by typing `*` before item list the second method by typing `-` before item list for example: -
 
 ###### `type `*` And typing your item list or `-` and typing your item list`
 
 
-- You can add an **images** by this way: -
+- You can add an **image** by this way: -
 ###### `![Name for the picture](Link for the picture)`
 
 
-- If you want to know more about how add contents you can add by using Markdown vist the link below: -
+- If you want to know more about how to add contents you can add by using Markdown visit the link below: -
 
 [Link to Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
@@ -46,7 +46,7 @@
 
 - GitHub Pages allows you to build more than just a web page if you are interested in this, the link below contains a video that talks about this: -
 
-[Link have video about GitHub Pages](https://www.youtube.com/watch?v=2MsN8gpT6jY)
+[Link has video about GitHub Pages](https://www.youtube.com/watch?v=2MsN8gpT6jY)
 
 
 
