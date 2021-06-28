@@ -16,10 +16,8 @@ https://github.com/mumenAlmadaineh
 ##### You can learn more about The growth mindset and the fixed mindset in this link: -
 [Video about The growth mindset](https://www.youtube.com/watch?v=-71zdXCMU6A)
 
-### Here you can found 15 Ways to Develop a Growth Mindset.
+### 3 reminders to myself how to keep myself in a growth mindset.
 
-1. Face your challenges bravely.
-2. Stop seeking approval from others.
-3. Acknowledge and embrace imperfections.
-4. Try different learning tactics.
-5. Value the process over the end result.
+1. I face my challenges bravely.
+2. I Stop seeking approval from others.
+4. I Try different learning tactics.
