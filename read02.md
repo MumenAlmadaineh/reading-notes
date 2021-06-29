@@ -21,7 +21,7 @@
 
 >## *We can upload our work to GitHub server easily with just three commands.*
 
-- ` git add .`
+- `git add .`
 - `git commit -m "your notes"`
 - `git push origin main`
 

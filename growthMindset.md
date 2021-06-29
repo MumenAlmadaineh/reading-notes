@@ -5,7 +5,7 @@ what is **the Growth Mindset** and, how it's different from **the Fixed Mindset*
 
 **So if you think** that the factors of success and failure in life come with a person since his birth and no one can acquire it, in this case, you think in a way the Fixed Mindset **but if you believe** that the reasons for success and failure are gained through training, self-development, and listening to all opinions without fanaticism, then you have the Growth Mindset.
 
-![Picture different between the Growth Mindset and the Fixed Mindset](https://lh3.googleusercontent.com/proxy/FzNjctQtADOTfyXoZ5J4py3qfzHYrOCn-k2Xsc-nJ1owzYQX6baQcNwOxLajFvfrtn-Y4BXzE8MBwRaBnfDgwUJBJBzsF4DLygvjVU_yIdPEFM05YJip1W40lnSebocA2FhInvy0NwcIA8Y-HU9RVxGMScnFQ5RdEQF4tccqZsmbSUzLtsA)
+![Picture different between the Growth Mindset and the Fixed Mindset](https://static.vecteezy.com/system/resources/previews/001/225/333/non_2x/growth-mindset-and-fixed-mindset-concept-vector.jpg)
 
 ##### You can learn more about the Growth Mindset and the fixed Mindset in this link: -
 [More about the Growth Mindset](https://www.youtube.com/watch?v=-71zdXCMU6A)
