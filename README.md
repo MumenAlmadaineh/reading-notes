@@ -12,4 +12,4 @@
 Content Name  | Content Link
 --------------| -------------
 Read:01 | [Go to Read:01 page you can read about Markdown](https://mumenalmadaineh.github.io/reading-notes/Read:01)
-Growth Mindset | [Go to Growth Mindset page you can read about Growth Mindset](https://mumenalmadaineh.github.io/reading-notes/GrowthMindset)
+Growth Mindset | [Go to Growth Mindset page you can read about Growth Mindset](https://mumenalmadaineh.github.io/reading-notes/growthMindset)
