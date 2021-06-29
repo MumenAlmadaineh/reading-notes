@@ -1,5 +1,5 @@
 # reading-notes
-**Hello eveeveryone**,
+**Hello everyone**,
 
 - *first let me introduce myself my name is Mumen I'm 27 years old. I'm a Personal Computer Repair Technician and, now I'm working as an android application developer (freelance).*
 
