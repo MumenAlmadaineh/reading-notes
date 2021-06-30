@@ -18,4 +18,16 @@ Learn HTML by three steps | [Go to Learn HTML by three steps page to know more a
 Three steps that will help you to begin learning about JavaScript | [Click here to know more about this three steps](https://mumenalmadaineh.github.io/reading-notes/read04)
 
 
+# 3 most idea significant I read about How Computers Work
+
+1. How information is represented using electricity through 0 and 1.
+
+
+2. How information input, and how the CPU progress this information, and how it's ready to output.
+
+
+3. How the software control the hardware by using  programming
+
+## ![How Computers Work image](https://www.bina2.com/wp-content/uploads/2021/03/1-2.png)
+
 
