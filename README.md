@@ -14,3 +14,5 @@ Content Name  | Content Link
 Read:01 | [Go to Read:01 page you can read about Markdown](https://mumenalmadaineh.github.io/reading-notes/Read:01)
 Read:02 | [Go to Read:02 page you can read about the Git](https://mumenalmadaineh.github.io/reading-notes/read02)
 Growth Mindset | [Go to Growth Mindset page you can read about Growth Mindset](https://mumenalmadaineh.github.io/reading-notes/growthMindset)
+Learn HTML by three steps | [Go to Learn HTML by three steps page you can read about Growth Mindset](https://mumenalmadaineh.github.io/reading-notes/read03)
+
