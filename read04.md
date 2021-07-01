@@ -73,4 +73,8 @@ We can distinguish 3 major parts of what we usually refer to as "JavaScript".
 3. The server API (or just API) provided by Node.js or one of the other server-side systems.
 
 
+<<<<<<< HEAD
 [You can continue reading by visiting the original author's page, which talks about this topic in more detail.](https://code-maven.com/input-output-in-plain-javascript)
+=======
+[You can continue reading by visiting the original author's page, which talks about this topic in more detail.](https://code-maven.com/input-output-in-plain-javascript)
+>>>>>>> e3844a7ea71936b77d68b6a14760f7c3a33bb84d
