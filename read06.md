@@ -1,5 +1,3 @@
-# Learn about consists
-
 ## What is CSS?
 
 ### CSS it's mean stands for Cascading Style Sheets
