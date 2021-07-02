@@ -17,6 +17,8 @@ Growth Mindset | [Go to Growth Mindset page you can read about Growth Mindset](h
 Learn HTML by three steps | [Go to Learn HTML by three steps page to know more about this three steps](https://mumenalmadaineh.github.io/reading-notes/read03)
 Three steps that will help you to begin learning about JavaScript | [Click here to know more about this three steps](https://mumenalmadaineh.github.io/reading-notes/read04)
 
+Expressions and operators in JavaScript | [Click here to learn about Expressions and operators](https://mumenalmadaineh.github.io/reading-notes/read05)
+
 
 # 3 most idea significant I read about How Computers Work
 
