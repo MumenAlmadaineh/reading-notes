@@ -16,12 +16,8 @@ Read:02 | [Go to Read:02 page you can read about the Git](https://mumenalmadaine
 Growth Mindset | [Go to Growth Mindset page you can read about Growth Mindset](https://mumenalmadaineh.github.io/reading-notes/growthMindset)
 Learn HTML by three steps | [Go to Learn HTML by three steps page to know more about this three steps](https://mumenalmadaineh.github.io/reading-notes/read03)
 Three steps that will help you to begin learning about JavaScript | [Click here to know more about this three steps](https://mumenalmadaineh.github.io/reading-notes/read04)
-
-CSS files and color | [Click here to read about CSS files and color in css](https://mumenalmadaineh.github.io/reading-notes/read05)
-
-Expressions and operators in JavaScript | [Click here to learn about Expressions and operators](https://mumenalmadaineh.github.io/reading-notes/read06)
-
-
+Expressions and operators in JavaScript | [Click here to learn about Expressions and operators](https://mumenalmadaineh.github.io/reading-notes/read05)
+CSS files and colo | [Click here to read about CSS files and color in CSS](https://mumenalmadaineh.github.io/reading-notes/read06)
 
 # 3 most idea significant I read about How Computers Work
 
