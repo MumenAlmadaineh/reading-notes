@@ -1,4 +1,4 @@
-# The control flow
+# The control flow and function in JavaScript
 
 ### This page is about Therefore if yor are not no any thing about JavaScript you must read about it in link below:
 
@@ -7,7 +7,7 @@
 ![JavaScript picture](https://2.bp.blogspot.com/-z6q9nVbRxTI/XD-eNSUWtrI/AAAAAAAAMC0/bYratloel2AytKlQXuaFqD51D3P54xE5gCLcBGAs/s1600/%25D9%2585%25D8%25B5%25D8%25A7%25D8%25AF%25D8%25B1%2B%25D8%25AA%25D8%25B9%25D9%2584%25D9%2585%2B%25D8%25AC%25D8%25A7%25D9%2581%25D8%25A7%2B%25D8%25B3%25D9%2583%25D8%25B1%25D9%258A%25D8%25A8%25D8%25AA.png)
 
 
-### If you are already read the page above we recommend you to read about expressions and operators in JavaScript also because this will give you a good idea about the control flow
+### If you are already read the page above we recommend you to read about expressions and operators in JavaScript also because this will give you a good idea about the control flow and function
 
 [By click here you can read more about expressions and operators in JavaScriptwikipedia.](https://mumenalmadaineh.github.io/reading-notes/read05)
 
@@ -42,8 +42,47 @@ while (correctUserData != "correctInformation") {
 ![firewall flow](https://www.pandasecurity.com/en/mediacenter/src/uploads/2019/01/pandasecurity-what-it-firewall.jpg)
 
 
-### *In the above example, the user will not be able to access the page data without entering the correct information because while loop statement prevents the browser from reading the rest of the code until the user enters the correct information>*
+### *In the above example, the user will not be able to access the page data without entering the correct information because while loop statement prevents the browser from reading the rest of the code until the user enters the correct information.*
 
+## You can organize your code in JavaScript by using Functions
+
+### what is the JavaScript Functions?
+
+#### JavaScript Functions is a block of code designed to perform a particular task to executed when "something" invokes it (calls it), and organize our code.
+
+- #### we can add Functions in JavaScript by to way:
+
+1. function deceleration:
+
+- For example:
+
+````
+var userName = Mu'men;
+var password = 1994;
+
+function userInfo(){
+  var userData = userName + password;
+  
+  return password;
+}
+````
+
+2. function expression:
+
+- for example:
+````
+var userName = Mu'men;
+var password = 1994;
+
+var userInfo = function () {
+  var userData = userName + password;
+}
+
+````
+
+### In this two way we need to call it by this way
+
+`userInfo()`
 
 
 [You can learn more about the Control flow by clicking on the link below and reading more about it on Wikipedia.](https://en.wikipedia.org/wiki/Control_flow)

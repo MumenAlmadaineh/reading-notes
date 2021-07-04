@@ -18,7 +18,7 @@ Learn HTML by three steps | [Go to Learn HTML by three steps page to know more a
 Three steps that will help you to begin learning about JavaScript | [Click here to know more about this three steps](https://mumenalmadaineh.github.io/reading-notes/read04)
 Expressions and operators in JavaScript | [Click here to learn about Expressions and operators](https://mumenalmadaineh.github.io/reading-notes/read05)
 CSS files and color | [Click here to read about CSS files and color in CSS](https://mumenalmadaineh.github.io/reading-notes/read06)
-The control flow | [By click here you will go to the page talking about The control flow](https://mumenalmadaineh.github.io/reading-notes/read07)
+The control flow and function in JavaScript | [By click here you will go to the page talking about The control flow and function in JavaScript](https://mumenalmadaineh.github.io/reading-notes/read07)
 
 # 3 most idea significant I read about How Computers Work
 
