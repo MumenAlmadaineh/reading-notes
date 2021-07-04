@@ -46,8 +46,7 @@ Operator  | Description | Example
 
 Operator  | Description | Example
 ----------| ------------| -------------
-`==` | 	
-Checks if two operands are equal or not. If yes, then the condition becomes true   | `10==5` = false
+`==` | Checks if two operands are equal or not. If yes, then the condition becomes true | `10==5` = false
 `===` | Finds the identical (equal and of the same type)   | `10===10` = true
 `!=` | Checks if two operands are equal or not. If the values are not equal, then the condition becomes true   | `5!=10` = true
 `!==` | It implies that two values are not Identical   | `10!==10` = false
