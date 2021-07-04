@@ -56,6 +56,7 @@ while (correctUserData != "correctInformation") {
 
 - For example:
 
+
 ````
 var userName = Mu'men;
 var password = 1994;
@@ -70,6 +71,7 @@ function userInfo(){
 2. function expression:
 
 - for example:
+
 ````
 var userName = Mu'men;
 var password = 1994;
