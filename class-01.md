@@ -1,4 +1,4 @@
-# summarising Duckett HTML book and JS book:
+# Summarising Duckett HTML book and JS book:
 
 ## Duckett HTML book helps two very different types of people in mind: -
 
