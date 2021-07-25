@@ -39,7 +39,7 @@
 ### Markup language: -
 - In computer text processing, a markup language is a system for annotating a document in a way that is visually distinguishable from the content.
 
-![Markup language Picture](https://www.researchgate.net/profile/Muhammad-Pasha-6/publication/323869270/figure/fig3/AS:606182121164801@1521536488788/Structure-of-an-HTML5-Web-Page.png)
+![Markup language Picture](https://www.thoughtco.com/thmb/29KluRkq4vQv13LN9ELs6TOC88Y=/1913x1275/filters:fill(auto,1)/HTML-98acb3f1edd74a36867fcdedcf5fb0e2.jpg)
 
 #### HTML Tags: Tags are the starting and ending parts of an HTML element. They begin with < symbol and end with > symbol. Whatever written inside < and > are called tags.
 
