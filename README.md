@@ -15,8 +15,8 @@
 
 Content Name  | Content Link
 --------------| -------------
-Read:01 | [Read:01 content](https://mumenalmadaineh.github.io/reading-notes/class-01)
-Read:02 | [Read:02 content](https://mumenalmadaineh.github.io/reading-notes/read:02:201)
+Read:01 | [Duckett HTML book and JS book](https://mumenalmadaineh.github.io/reading-notes/class-01)
+Read:02 | [Basics of HTML, CSS & JS](https://mumenalmadaineh.github.io/reading-notes/class-02)
 Read:03 | [Read:03 content](https://mumenalmadaineh.github.io/reading-notes/read:03:201)
 Read:04 | [Read:04 content](https://mumenalmadaineh.github.io/reading-notes/read:04:201)
 Read:05 | [Read:05 content](https://mumenalmadaineh.github.io/reading-notes/read:05:201)
