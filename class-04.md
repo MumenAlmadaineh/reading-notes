@@ -103,11 +103,14 @@ name = person.fullName();
 
 `name` is a variable `person` is an object `fullName()` is a method
 
+# Pair program
 
+![# Pair program photo](https://next-cdn.codementor.io/images/pair-programming/pair-programming-hero.png)
 
+This term refers to the way the programmers use it to build programs with better speed and accuracy by Divide the work between them pair programming commonly involves two roles the Driver and the Navigator.
 
+- > (codefellows.org) The Driver is the programmer who is typing and the only one whose hands are on the keyboard.
 
+- > (codefellows.org) The Navigator uses their words to guide the Driver but does not provide any direct input to the computer.
 
-
-
-
+[More about pair program vist codefellows.org](https://www.codefellows.org/blog/6-reasons-for-pair-programming/)
