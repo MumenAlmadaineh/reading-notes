@@ -6,20 +6,19 @@
 
 - ### Now let's go to th three steps: -
 
-1. ## In our first JavaScript module, we first answer some fundamental questions such as "what is JavaScript?", "what does it look like?", and "what can it do?", before moving on to taking you through your first practical experience of writing JavaScript. After that, we discuss some key building blocks in detail, such as variables, strings, numbers and arrays..
+1. ## In our first JavaScript module, we first answer some fundamental questions such as "what is JavaScript?", "what does it look like?", and "what can it do?", before moving on to taking you through your first practical experience of writing JavaScript. After that, we discuss some key building blocks in detail, such as variables, strings, numbers and arrays
 
 - ## *JavaScript (often shortened to JS) is a lightweight, interpreted, object-oriented language with first-class functions, and is best known as the scripting language for Web pages, but it's used in many non-browser environments as well. It is a prototype-based, multi-paradigm scripting language that is dynamic, and supports object-oriented, imperative, and functional programming styles.*
 
 [You can learn more about JavaScript in this link.](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps)
 
-
 - Step number two it`s about JavaScript Variables
+
 2. ## JavaScript Variables
 
 ![JavaScript Variables picture](https://1.bp.blogspot.com/-8UmWFTngfwY/XkVRuoPFfkI/AAAAAAAACmI/93j-FMkA9EYyoRIT1qlJ2sMUbobnWT1UgCLcBGAsYHQ/s1600/javascript_var.png)
 
-
-> #### There are 3 ways to declare a JavaScript variable:
+> #### There are 3 ways to declare a JavaScript variable
 
 1. Using `var`
 2. Using `let`
@@ -29,11 +28,11 @@ This chapter uses `var`.
 
  The `let` and `const` keywords are explained in the next chapters.
 
- - ##### Variables
+- ##### Variables
 
-#### Variables are containers for storing data (values).
+#### Variables are containers for storing data (values)
 
-#### In this example, `x`, `y`, and `z`, are variables, declared with the `var` keyword:
+#### In this example, `x`, `y`, and `z`, are variables, declared with the `var` keyword
 
 #### Example
 
@@ -45,10 +44,6 @@ var z = x + y;
 ````
 
 [Completely read this topic in original web site w3 school.](https://www.w3schools.com/js/js_variables.asp)
-
-
-
-
 
 - ### *If you have finished the last two steps you can move to the last one.*
 
@@ -72,8 +67,6 @@ We can distinguish 3 major parts of what we usually refer to as "JavaScript".
 
 3. The server API (or just API) provided by Node.js or one of the other server-side systems.
 
-
-<<<<<<< HEAD
 [You can continue reading by visiting the original author's page, which talks about this topic in more detail.](https://code-maven.com/input-output-in-plain-javascript)
-=======
+
 [You can continue reading by visiting the original author's page, which talks about this topic in more detail.](https://code-maven.com/input-output-in-plain-javascript)

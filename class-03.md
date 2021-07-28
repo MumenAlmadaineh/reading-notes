@@ -2,7 +2,7 @@
 
 ![# Lists in HTML photo](https://media.gcflearnfree.org/content/5e46ef60397c182fec255f32_02_14_2020/lists.png)
 
-#### How many numbers of lists are on HTML??
+### How many numbers of lists are on HTML?
 
 - There are three types of lists in HTML
 

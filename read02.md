@@ -1,6 +1,6 @@
 # Git
 
-## OK What is git? 
+## OK What is git?
 
 ![Git picture](https://codexitos.com/wp-content/uploads/2019/10/blog-What-is-github-and-why-you-should-use-it..png)
 
@@ -13,7 +13,6 @@
 ### *Version Control is the way how developers tracking and managing changes on their software code. Version Control also helps developers with software tools that help software teams manage changes to source code over time.*
 
 ## How Version Control System works?
-
 
 #### *The Version Control system on Git can be likened to the cloud, for example, OneDrive, where files are synchronized between the computer and the server. Just as in OneDrive, files cannot be uploaded to the server except when connected to the Internet. Also, the Version Control system is a system that no developer can upload their work to GitHub except when connected. There are simple steps that must be done to upload work files to GitHub after completing the required procedures.*
 
@@ -29,4 +28,4 @@
 
 [Know more about Git.](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/#1)
 
-###### If you made it to this part of the reading then you are a great person thank you very much.
+###### If you made it to this part of the reading then you are a great person thank you very much

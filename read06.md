@@ -156,11 +156,6 @@ body {color: hsla(89, 43%, 51%, 0.6);}
 
 ### All those way using to set color for body of HTML file
 
-
-
-
 ![Coding picture](https://speckyboy.com/wp-content/uploads/2021/06/pagination-thumb-750x500.jpg)
-
-
 
 [More about CSS in wikipedia.](https://en.wikipedia.org/wiki/CSS)
