@@ -4,7 +4,7 @@
 
 ![# links in HTML photo](https://www.tutorialbrain.com/wp-content/uploads/2019/02/Links-in-HTML-1.jpg)
 
-### As you see in the picture above there is a three type of links in HTML
+### As you see in the picture above there is a three types of links in HTML
 
 1. Link Colors:
 
@@ -52,7 +52,7 @@ My Email <a href="mumen_almadaineh@outlook.com">Mu'men Al-Madaineh</a>.
 
 ![# Email Link photo](EmailLink.png)
 
-## If you want to see more you can vist this link:
+## If you want to see more you can  visit this link
 
 [More about HTML Links](https://www.tutorialbrain.com/html_tutorial/html_links/)
 
@@ -68,12 +68,11 @@ Layout give us ability to control where each element sits on a page this will he
 
 - Discover how various devices have different screen sizes and resolution, and how this affects the design process
 
--  Learn the difference between fixed width and liquid layouts, and how they are created.
+- Learn the difference between fixed width and liquid layouts, and how they are created.
 
 - Find out how designers use grids to make their page designs look more professional.
 
-
-# function method and object in JavaScript:
+# function method and object in JavaScript
 
 ## each one of these terms refers to JavaScript element
 
@@ -89,9 +88,9 @@ Layout give us ability to control where each element sits on a page this will he
 
 Everything in life is an object, for example, a human is an object a computer is an object and a car is an object every object has properties and actions, in a JavaScript object is a block of code that has properties and actions
 
-### Mothod
+### Method
 
-![# Mothod in JavaScript photo](https://dmitripavlutin.com/static/d0597f7819971bf2b124b653b673eb29/05127/cover-2.png)
+![# Method in JavaScript photo](https://dmitripavlutin.com/static/d0597f7819971bf2b124b653b673eb29/05127/cover-2.png)
 
 By the simple way to explain method: the method is action that can be performed on the object
 
@@ -113,4 +112,4 @@ This term refers to the way the programmers use it to build programs with better
 
 - > (codefellows.org) The Navigator uses their words to guide the Driver but does not provide any direct input to the computer.
 
-[More about pair program vist codefellows.org](https://www.codefellows.org/blog/6-reasons-for-pair-programming/)
+[More about pair program visit  codefellows.org](https://www.codefellows.org/blog/6-reasons-for-pair-programming/)
