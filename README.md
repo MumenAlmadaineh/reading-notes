@@ -52,5 +52,3 @@ The control flow and function in JavaScript | [By click here you will go to the 
 3. How the software control the hardware by using  programming
 
 ## ![How Computers Work image](https://www.bina2.com/wp-content/uploads/2021/03/1-2.png)
-
-# aa
