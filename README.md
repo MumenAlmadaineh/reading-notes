@@ -18,7 +18,7 @@ Read:01 | [Duckett HTML book and JS book](https://mumenalmadaineh.github.io/read
 Read:02 | [Basics of HTML, CSS & JS](https://mumenalmadaineh.github.io/reading-notes/class-02)
 Read:03 | [HTML Lists, CSS Boxes, JS Control Flow](https://mumenalmadaineh.github.io/reading-notes/class-03)
 Read:04 | [HTML Links, JS Functions, and Intro to CSS Layout](https://mumenalmadaineh.github.io/reading-notes/class-04)
-Read:05 | [Read:05 content](https://mumenalmadaineh.github.io/reading-notes/read:05:201)
+Read:05 | [Images, Color, Text in HTML](https://mumenalmadaineh.github.io/reading-notes/class-05)
 Read:06 | [Read:06 content](https://mumenalmadaineh.github.io/reading-notes/read:06:201)
 Read:07 | [Read:07 content](https://mumenalmadaineh.github.io/reading-notes/read:07:201)
 Read:08 | [Read:08 content](https://mumenalmadaineh.github.io/reading-notes/read:08:201)
