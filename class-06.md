@@ -36,18 +36,18 @@ Everything in life is an object, for example, a human is an object a computer is
 
  With the object model, JavaScript gets all the power it needs to create dynamic HTML:
 
- - JavaScript can change all the HTML attributes in the web page.
+ - JavaScript can change all the HTML attributes on the web page.
 
 - JavaScript can remove existing HTML elements and attributes.
 
-- JavaScript can react to all existing HTML events in the page.
+- JavaScript can react to all existing HTML events on the page.
 
-- JavaScript can change all the HTML elements in the web page.
+- JavaScript can change all the HTML elements on the web page.
 
-- JavaScript can change all the CSS styles in the web page.
+- JavaScript can change all the CSS styles on the web page.
 
 - JavaScript can add new HTML elements and attributes.
 
-- JavaScript can create new HTML events in the web page.
+- JavaScript can create new HTML events on the web page.
 
 [If you want to learn more about DOM visit MDN Web Docs by clicking here](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
