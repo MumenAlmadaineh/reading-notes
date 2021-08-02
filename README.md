@@ -21,7 +21,7 @@ Read:04 | [HTML Links, JS Functions, and Intro to CSS Layout](https://mumenalmad
 Read:05 | [Images, Color, Text in HTML](https://mumenalmadaineh.github.io/reading-notes/class-05)
 Read:06 | [Problem Domain, Objects, and the DOM](https://mumenalmadaineh.github.io/reading-notes/class-06)
 Read:07 | [Object-Oriented Programming, HTML Tables](https://mumenalmadaineh.github.io/reading-notes/class-07)
-Read:08 | [Read:08 content](https://mumenalmadaineh.github.io/reading-notes/read:08:201)
+Read:08 | [Layout](https://mumenalmadaineh.github.io/reading-notes/class-08)
 Read:09 | [Read:09 content](https://mumenalmadaineh.github.io/reading-notes/read:09:201)
 Read:10 | [Read:10 content](https://mumenalmadaineh.github.io/reading-notes/read:10:201)
 Read:11 | [Read:11 content](https://mumenalmadaineh.github.io/reading-notes/read:11:201)
