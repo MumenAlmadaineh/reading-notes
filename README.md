@@ -22,7 +22,7 @@ Read:05 | [Images, Color, Text in HTML](https://mumenalmadaineh.github.io/readin
 Read:06 | [Problem Domain, Objects, and the DOM](https://mumenalmadaineh.github.io/reading-notes/class-06)
 Read:07 | [Object-Oriented Programming, HTML Tables](https://mumenalmadaineh.github.io/reading-notes/class-07)
 Read:08 | [Layout](https://mumenalmadaineh.github.io/reading-notes/class-08)
-Read:09 | [Read:09 content](https://mumenalmadaineh.github.io/reading-notes/read:09:201)
+Read:09 | [Forms and JS Events](https://mumenalmadaineh.github.io/reading-notes/class-09)
 Read:10 | [Read:10 content](https://mumenalmadaineh.github.io/reading-notes/read:10:201)
 Read:11 | [Read:11 content](https://mumenalmadaineh.github.io/reading-notes/read:11:201)
 Read:12 | [Read:12 content](https://mumenalmadaineh.github.io/reading-notes/read:12:201)
