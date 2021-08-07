@@ -24,7 +24,7 @@ Read:07 | [Object-Oriented Programming, HTML Tables](https://mumenalmadaineh.git
 Read:08 | [Layout](https://mumenalmadaineh.github.io/reading-notes/class-08)
 Read:09 | [Forms and JS Events](https://mumenalmadaineh.github.io/reading-notes/class-09)
 Read:10 | [Error Handling & Debugging](https://mumenalmadaineh.github.io/reading-notes/class-10)
-Read:11 | [Read:11 content](https://mumenalmadaineh.github.io/reading-notes/read:11:201)
+Read:11 | [Audio, Video, Images in web sites](https://mumenalmadaineh.github.io/reading-notes/class-11)
 Read:12 | [Read:12 content](https://mumenalmadaineh.github.io/reading-notes/read:12:201)
 Read:13 | [Read:13 content](https://mumenalmadaineh.github.io/reading-notes/read:13:201)
 Read:14 | [Read:14 content](https://mumenalmadaineh.github.io/reading-notes/read:13:201)
