@@ -2,7 +2,11 @@
 
 ![Controlling size of images in CSS Photo](https://user-images.githubusercontent.com/1479100/45607189-2b018b80-ba7d-11e8-845e-d7ab810bc07f.png)
 
+## What is the Chart.js?
+
 Chart.js is a free open-source JavaScript library for data visualization, which supports 8 chart types: bar, line, area, pie (doughnut), bubble, radar, polar, and scatter.
+
+## How We Can start with Chart.js?
 
 Setting up:
 
@@ -21,6 +25,8 @@ Setting up:
 </html>
 ```
 
+## How We can drawing with chart.js?
+
 You can start drawing inside the chart.js by writing the code, for example
 
 `<canvas id="buyers" width="600" height="400"></canvas>`
@@ -38,7 +44,7 @@ This line of code will Draw a line chart
 
 This part of the code we need to add it to the foot of our body element:
 
-# Installation
+# From where We can installing Chart.js
 
 We can install the latest version of Chart.js from three different sources
 
