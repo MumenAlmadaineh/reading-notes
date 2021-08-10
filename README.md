@@ -26,7 +26,7 @@ Read:09 | [Forms and JS Events](https://mumenalmadaineh.github.io/reading-notes/
 Read:10 | [Error Handling & Debugging](https://mumenalmadaineh.github.io/reading-notes/class-10)
 Read:11 | [Audio, Video, Images in web sites](https://mumenalmadaineh.github.io/reading-notes/class-11)
 Read:12 | [Chart.js, Canvas](https://mumenalmadaineh.github.io/reading-notes/class-12)
-Read:13 | [Read:13 content](https://mumenalmadaineh.github.io/reading-notes/read:13:201)
+Read:13 | [Local storage in JavaScript](https://mumenalmadaineh.github.io/reading-notes/class-13)
 Read:14 | [Read:14 content](https://mumenalmadaineh.github.io/reading-notes/read:13:201)
 Read:15 | [Read:15 content](https://mumenalmadaineh.github.io/reading-notes/read:14:201)
 
