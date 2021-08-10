@@ -2,11 +2,11 @@
 
 ![Team photo](https://usercontent.one/wp/www.kennethlange.com/wp-content/uploads/2018/09/engineering_team-624x416.jpg)
 
-- The first step in answering this question of “what makes an effective team?” is to ask “what is a team?” More than an existential thought exercise, actually figuring out the memberships, relationships, and responsibilities of individuals all working together is tough but critical to cracking team effectiveness.
+- The first step in answering this question of “what makes an effective team?” is to ask “what is a team?” More than an existential thought exercise, figuring out the memberships, relationships, and responsibilities of individuals working together is tough but critical to cracking team effectiveness.
 
-- The term team can take on a wide array of meanings. Many definitions and frameworks exist, depending on task interdependence, organizational status, and team tenure. At the most fundamental level, the researchers sought to distinguish a “work group” from a “team:”
+- The term team can take on a wide array of meanings. Many definitions and frameworks exist, depending on task interdependence, organizational status, and team tenure. At the most fundamental level, the researchers sought to distinguish a “workgroup” from a “team:”
 
-- Work groups are characterized by the least amount of interdependence. They are based on organizational or managerial hierarchy. Work groups may meet periodically to hear and share information.
+- Workgroups are characterized by the least amount of interdependence. They are based on organizational or managerial hierarchy. Workgroups may meet periodically to hear and share information.
 
 - Teams are highly interdependent - they plan work, solve problems, make decisions, and review progress in service of a specific project. Team members need one another to get work done.
 
