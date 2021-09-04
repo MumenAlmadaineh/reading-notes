@@ -1,4 +1,4 @@
-# reading-notes 201
+# reading-notes
 
 **Hello everyone**,
 
@@ -8,7 +8,9 @@
 
 - [For more about me you can visit my GitHub profile.](https://github.com/mumenAlmadaineh)
 
-# Code 201 Reading Notes
+# Code 301 - Intermediate Software Development
+
+# Code 201 - Foundations of Software Development
 
 >### Table of content code 201
 
@@ -31,7 +33,7 @@ Read:14 | [CSS Transforms, Transitions, and Animations](https://mumenalmadaineh.
 Read:15 | [What Google Learned About Teams](https://mumenalmadaineh.github.io/reading-notes/class-14b)
 Read:15 | [Read:15 content](https://mumenalmadaineh.github.io/reading-notes/read:14:201)
 
->### Table of content code 102
+>### Code 102 - Intro to Software Development
 
 Content Name  | Content Link
 --------------| -------------
