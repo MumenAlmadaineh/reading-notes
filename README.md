@@ -10,14 +10,16 @@
 
 # Code 301 - Intermediate Software Development
 
+
+
 # Code 201 - Foundations of Software Development
 
 >### Table of content code 201
 
 Content Name  | Content Link
 --------------| -------------
-Read:01 | [Duckett HTML book and JS book](https://mumenalmadaineh.github.io/reading-notes/class-01)
-Read:02 | [Basics of HTML, CSS & JS](https://mumenalmadaineh.github.io/reading-notes/class-02)
+Read:01 | [Things I want to know more about](https://mumenalmadaineh.github.io/reading-notes/read1:301)
+<!-- Read:02 | [Basics of HTML, CSS & JS](https://mumenalmadaineh.github.io/reading-notes/class-02)
 Read:03 | [HTML Lists, CSS Boxes, JS Control Flow](https://mumenalmadaineh.github.io/reading-notes/class-03)
 Read:04 | [HTML Links, JS Functions, and Intro to CSS Layout](https://mumenalmadaineh.github.io/reading-notes/class-04)
 Read:05 | [Images, Color, Text in HTML](https://mumenalmadaineh.github.io/reading-notes/class-05)
@@ -31,7 +33,7 @@ Read:12 | [Chart.js, Canvas](https://mumenalmadaineh.github.io/reading-notes/cla
 Read:13 | [Local storage in JavaScript](https://mumenalmadaineh.github.io/reading-notes/class-13)
 Read:14 | [CSS Transforms, Transitions, and Animations](https://mumenalmadaineh.github.io/reading-notes/class-14a)
 Read:15 | [What Google Learned About Teams](https://mumenalmadaineh.github.io/reading-notes/class-14b)
-Read:15 | [Read:15 content](https://mumenalmadaineh.github.io/reading-notes/read:14:201)
+Read:15 | [Read:15 content](https://mumenalmadaineh.github.io/reading-notes/read:14:201) -->
 
 >### Code 102 - Intro to Software Development
 
