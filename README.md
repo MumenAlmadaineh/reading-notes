@@ -15,21 +15,8 @@
 Content Name  | Content Link
 --------------| -------------
 Read:01 | [Things I want to know more about](https://mumenalmadaineh.github.io/reading-notes/read1:301)
-<!-- Read:02 | [Basics of HTML, CSS & JS](https://mumenalmadaineh.github.io/reading-notes/class-02)
-Read:03 | [HTML Lists, CSS Boxes, JS Control Flow](https://mumenalmadaineh.github.io/reading-notes/class-03)
-Read:04 | [HTML Links, JS Functions, and Intro to CSS Layout](https://mumenalmadaineh.github.io/reading-notes/class-04)
-Read:05 | [Images, Color, Text in HTML](https://mumenalmadaineh.github.io/reading-notes/class-05)
-Read:06 | [Problem Domain, Objects, and the DOM](https://mumenalmadaineh.github.io/reading-notes/class-06)
-Read:07 | [Object-Oriented Programming, HTML Tables](https://mumenalmadaineh.github.io/reading-notes/class-07)
-Read:08 | [Layout](https://mumenalmadaineh.github.io/reading-notes/class-08)
-Read:09 | [Forms and JS Events](https://mumenalmadaineh.github.io/reading-notes/class-09)
-Read:10 | [Error Handling & Debugging](https://mumenalmadaineh.github.io/reading-notes/class-10)
-Read:11 | [Audio, Video, Images in web sites](https://mumenalmadaineh.github.io/reading-notes/class-11)
-Read:12 | [Chart.js, Canvas](https://mumenalmadaineh.github.io/reading-notes/class-12)
-Read:13 | [Local storage in JavaScript](https://mumenalmadaineh.github.io/reading-notes/class-13)
-Read:14 | [CSS Transforms, Transitions, and Animations](https://mumenalmadaineh.github.io/reading-notes/class-14a)
-Read:15 | [What Google Learned About Teams](https://mumenalmadaineh.github.io/reading-notes/class-14b)
-Read:15 | [Read:15 content](https://mumenalmadaineh.github.io/reading-notes/read:14:201) -->
+Read:02 | [State and Props](https://mumenalmadaineh.github.io/reading-notes/read2:301)
+
 
 # Code 201 - Foundations of Software Development
 
