@@ -16,7 +16,9 @@ Content Name  | Content Link
 --------------| -------------
 Read:01 | [Things I want to know more about](https://mumenalmadaineh.github.io/reading-notes/read1:301)
 Read:02 | [State and Props](https://mumenalmadaineh.github.io/reading-notes/read2:301)
-Read:02 | [Passing Functions as Props](https://mumenalmadaineh.github.io/reading-notes/read3:301)
+Read:02 | [Passing Functions as Props](https://mumenalmadaineh.github.io/reading-notes/read3:301) | [React and Forms](https://mumenalmadaineh.github.io/reading-notes/read4:301)
+
+React and Forms
 
 
 # Code 201 - Foundations of Software Development
