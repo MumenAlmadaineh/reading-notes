@@ -15,8 +15,22 @@
 Content Name  | Content Link
 --------------| -------------
 Read:01 | [Things I want to know more about](https://mumenalmadaineh.github.io/reading-notes/read1:301)
+
 Read:02 | [State and Props](https://mumenalmadaineh.github.io/reading-notes/read2:301)
-Read:02 | [Passing Functions as Props](https://mumenalmadaineh.github.io/reading-notes/read3:301) | [React and Forms](https://mumenalmadaineh.github.io/reading-notes/read4:301) | [Putting it all together](https://mumenalmadaineh.github.io/reading-notes/read5:301) | [NODE.JS](https://mumenalmadaineh.github.io/reading-notes/read6:301)| [REST](https://mumenalmadaineh.github.io/reading-notes/read7:301)| [APIs](https://mumenalmadaineh.github.io/reading-notes/read8:301)
+
+Read:03 | [Passing Functions as Props](https://mumenalmadaineh.github.io/reading-notes/read3:301)
+
+ Read:04| [React and Forms](https://mumenalmadaineh.github.io/reading-notes/read4:301)
+ 
+ Read:05 | [Putting it all together](https://mumenalmadaineh.github.io/reading-notes/read5:301)
+ 
+ Read:06 | [NODE.JS](https://mumenalmadaineh.github.io/reading-notes/read6:301)
+ 
+ Read:07| [REST](https://mumenalmadaineh.github.io/reading-notes/read7:301)
+ 
+ Read:08| [APIs](https://mumenalmadaineh.github.io/reading-notes/read8:301)
+
+Read:09| [FUNCTIONAL PROGRAMMING](https://mumenalmadaineh.github.io/reading-notes/read9:301)
 
 
 # Code 201 - Foundations of Software Development
