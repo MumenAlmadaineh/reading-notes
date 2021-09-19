@@ -36,6 +36,8 @@ Read:10| [In memory storage](https://mumenalmadaineh.github.io/reading-notes/rea
 
 Read:11| [Mongo and Mongoose](https://mumenalmadaineh.github.io/reading-notes/read11:301)
 
+Read:12| [CRUD](https://mumenalmadaineh.github.io/reading-notes/read12:301)
+
 
 # Code 201 - Foundations of Software Development
 
