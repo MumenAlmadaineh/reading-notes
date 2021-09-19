@@ -34,6 +34,8 @@ Read:09| [FUNCTIONAL PROGRAMMING](https://mumenalmadaineh.github.io/reading-note
 
 Read:10| [In memory storage](https://mumenalmadaineh.github.io/reading-notes/read10:301)
 
+Read:11| [Mongo and Mongoose](https://mumenalmadaineh.github.io/reading-notes/read11:301)
+
 
 # Code 201 - Foundations of Software Development
 
