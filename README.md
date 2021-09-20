@@ -38,6 +38,9 @@ Read:11| [Mongo and Mongoose](https://mumenalmadaineh.github.io/reading-notes/re
 
 Read:12| [CRUD](https://mumenalmadaineh.github.io/reading-notes/read12:301)
 
+Read:12| [Diversity & Inclusion in the Tech Industry](https://mumenalmadaineh.github.io/reading-notes/read13:301)
+
+
 
 # Code 201 - Foundations of Software Development
 
