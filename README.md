@@ -8,6 +8,15 @@
 
 - [For more about me you can visit my GitHub profile.](https://github.com/mumenAlmadaineh)
 
+# Code 401 - Advanced Software Development
+
+>### Table of content code 401
+
+Content Name  | Content Link
+--------------| -------------
+Read:01 | [Java Basics](https://mumenalmadaineh.github.io/reading-notes/read1:401)
+
+
 # Code 301 - Intermediate Software Development
 
 >### Table of content code 201
@@ -46,7 +55,7 @@ Read:14| [Diversity & Inclusion in the Tech Industry](https://mumenalmadaineh.gi
 
 # Code 201 - Foundations of Software Development
 
->### Table of content code 201
+>### Table of content code 301
 
 Content Name  | Content Link
 --------------| -------------
