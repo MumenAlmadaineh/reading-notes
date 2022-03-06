@@ -16,6 +16,9 @@ Content Name  | Content Link
 --------------| -------------
 Read:01 | [Java Basics](https://mumenalmadaineh.github.io/reading-notes/read1:401)
 
+Read:02 | [Java Import and Packages](https://mumenalmadaineh.github.io/reading-notes/read1:402)
+
+
 
 # Code 301 - Intermediate Software Development
 
