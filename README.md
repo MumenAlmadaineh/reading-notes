@@ -17,6 +17,9 @@ Content Name  | Content Link
 Read:01 | [Java Basics](https://mumenalmadaineh.github.io/reading-notes/read1:401)
 Read:02 | [Java Import and Packages](https://mumenalmadaineh.github.io/reading-notes/read1:401)
 Read:09 | [WRRC and Java](https://mumenalmadaineh.github.io/reading-notes/read9:401)
+SQL-Practice | [SQL-Practice](https://mumenalmadaineh.github.io/reading-notes/SQL-Practice)
+
+
 
 
 
