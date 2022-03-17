@@ -17,6 +17,7 @@ Content Name  | Content Link
 Read:01 | [Java Basics](https://mumenalmadaineh.github.io/reading-notes/read1:401)
 Read:02 | [Java Import and Packages](https://mumenalmadaineh.github.io/reading-notes/read2:401)
 Read:03 | [Maps, primitives, File I/O](https://mumenalmadaineh.github.io/reading-notes/read3:401)
+Read:04 | [OOP](https://mumenalmadaineh.github.io/reading-notes/read4:401)
 Read:09 | [WRRC and Java](https://mumenalmadaineh.github.io/reading-notes/read9:401)
 SQL-Practice | [SQL-Practice](https://mumenalmadaineh.github.io/reading-notes/sql:practice)
 the:command:line | [the:command:line](https://mumenalmadaineh.github.io/reading-notes/the:command:line)
