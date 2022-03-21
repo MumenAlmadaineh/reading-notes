@@ -2,7 +2,7 @@
 
 **Hello everyone**,
 
-- *first let me introduce myself my name is Mumen I'm 27 years old. I'm a Personal Computer Repair Technician and, now I'm working as an android application developer (freelance).*
+- *first let me introduce myself my name is Mumen I'm 27 years old. I'm a Personal Computer Repair Technician and, now I'm working as an android application developer (Self-Employed).*
 
 ![Coding image](https://image.freepik.com/free-photo/programming-code-abstract-technology-background-software-developer-computer-script_34663-31.jpg)
 
@@ -18,10 +18,11 @@ Read:01 | [Java Basics](https://mumenalmadaineh.github.io/reading-notes/read1:40
 Read:02 | [Java Import and Packages](https://mumenalmadaineh.github.io/reading-notes/read2:401)
 Read:03 | [Maps, primitives, File I/O](https://mumenalmadaineh.github.io/reading-notes/read3:401)
 Read:04 | [OOP](https://mumenalmadaineh.github.io/reading-notes/read4:401)
+Read:05 | [Linked List](https://mumenalmadaineh.github.io/reading-notes/read5:401)
 Read:09 | [WRRC and Java](https://mumenalmadaineh.github.io/reading-notes/read9:401)
 Read:12 | [Spring RESTful Routing & Static Files](https://mumenalmadaineh.github.io/reading-notes/read12:401)
 SQL-Practice | [SQL-Practice](https://mumenalmadaineh.github.io/reading-notes/sql:practice)
-the:command:line | [the:command:line](https://mumenalmadaineh.github.io/reading-notes/the:command:line)
+the:command:line | [The command line](https://mumenalmadaineh.github.io/reading-notes/the:command:line)
 
 
 # Code 301 - Intermediate Software Development
