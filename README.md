@@ -25,6 +25,7 @@ SQL-Practice | [SQL-Practice](https://mumenalmadaineh.github.io/reading-notes/sq
 the:command:line | [The command line](https://mumenalmadaineh.github.io/reading-notes/the:command:line)
 
 
+
 # Code 301 - Intermediate Software Development
 
 >### Table of content code 201
