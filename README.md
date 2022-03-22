@@ -26,6 +26,7 @@ Read:09 | [WRRC and Java](https://mumenalmadaineh.github.io/reading-notes/read9:
 Read:10 | [Stacks & Queues](https://mumenalmadaineh.github.io/reading-notes/read10:401)
 Read:11 | [Stacks & Queues](https://mumenalmadaineh.github.io/reading-notes/read11:401)
 Read:12 | [Spring RESTful Routing & Static Files](https://mumenalmadaineh.github.io/reading-notes/read12:401)
+Read:13 | [Related Resources and Integration Testing](https://mumenalmadaineh.github.io/reading-notes/read13:401)
 SQL-Practice | [SQL-Practice](https://mumenalmadaineh.github.io/reading-notes/sql:practice)
 the:command:line | [The command line](https://mumenalmadaineh.github.io/reading-notes/the:command:line)
 
